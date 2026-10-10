@@ -1,5 +1,6 @@
 ![Header](./github-header-banner.png)
 
+[![version: v0.0.0](https://www.freewebtools.com/api/badge/version-v0.0.0-007ec6.svg?style=flat&labelColor=555)](https://www.freewebtools.com/github-badge-generator/)
 
 ## Hi there 👋
 
